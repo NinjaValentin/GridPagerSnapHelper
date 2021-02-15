@@ -1,6 +1,6 @@
 package com.hhl.recyclerviewindicator;
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * Callback interface for responding to changing state of the selected page

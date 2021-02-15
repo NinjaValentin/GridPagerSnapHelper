@@ -18,7 +18,7 @@
 package com.hhl.recyclerviewindicator;
 
 
-import android.support.v7.widget.RecyclerView;
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * A PageIndicator is responsible to show an visual indicator on the total views
